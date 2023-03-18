@@ -1,0 +1,42 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: url(sfondo.jpg);
+    background-size: 100%;
+}
+
+#contenuto{
+    margin-top: 50px;
+    margin-left: 225px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1000px;
+    padding: 100px;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;;
+}
+
+.logo{
+    width: 300px;
+}
+
+h1{
+    color: rgb(77, 216, 3);
+    
+}
+
+nav{
+    background-color: rgb(77, 216, 3);
+    padding: 10px;
+}
+
+main{
+    color: white;
+}
+
+#progressbar1{
+    height: 30px;
+    width: 1000px;
+}
